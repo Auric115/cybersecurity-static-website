@@ -4,6 +4,8 @@
 
 This is a **basic static website project** built with HTML and CSS, created as part of the journey to become a **Full-Stack Developer** according to the [Full-Stack Developer Roadmap](https://roadmap.sh/full-stack). The site is designed to educate users on key cybersecurity concepts, including encryption, firewalls, and social engineering, in a visually appealing and organized manner.
 
+[Project Description](https://roadmap.sh/projects/basic-html-website)
+
 This project demonstrates proficiency in:
 - HTML5 for page structure and semantics
 - CSS3 for layout and design
